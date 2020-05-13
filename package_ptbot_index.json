@@ -2,10 +2,7 @@
   "packages":
   [
     {
-      "name": "robohat",
-      "maintainer": "Robotics Masters",
-      "websiteURL": "https://roboticsmasters.co",
-      "email" : "techsupport@roboticsmasters.co",
+      "name": "PT-BOT",
       "platforms":
       [
         {
