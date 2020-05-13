@@ -5,7 +5,7 @@
          "maintainer" : "PT-BOT",
          "platforms" : [
             {
-               "version" : "2020.5.13",
+               "version" : "0.0.1",
                "name" : "PT-BOT Board",
                "boards" : [
                   {
@@ -13,7 +13,7 @@
                   }
                ],
                "size" : 8953294,
-               "architecture" : "PTBOT",
+               "architecture" : "STM32F1",
                "checksum" : "SHA-256:42fcaf25026245b3e36f3dfa8bc9000919c8c04af5b39af89c95d7982c350f8d",
                "toolsDependencies" : [
                   {
@@ -75,7 +75,7 @@
                "name" : "stm32tools"
             }
          ],
-         "name" : "PT-BOT",
+         "name" : "stm32duino",
          "websiteURL" : "http://www.stm32duino.com/",
          "help" : {
             "online" : "http://www.stm32duino.com/"
