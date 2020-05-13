@@ -75,11 +75,8 @@
               "name" : "stm32tools"
            }
         ],
-        "name" : "PTBOT",
-         "websiteURL" : "http://www.stm32duino.com/",
-         "help" : {
-            "online" : "http://www.stm32duino.com/"
-         }
+         "name" : "PTBOT",
+         "websiteURL" : "http://www.stm32duino.com/"
       }
    ]
 }
