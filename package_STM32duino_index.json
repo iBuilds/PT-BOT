@@ -9,7 +9,7 @@
                "name" : "PT-BOT Board",
                "boards" : [
                   {
-                     "name" : "PT-BOT Atom1"
+                     "name" : "Generic STM32F103C series"
                   }
                ],
                "size" : 8953294,
