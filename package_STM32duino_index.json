@@ -27,7 +27,7 @@
                      "packager" : "arduino"
                   }
                ],
-               "url" : "http://dan.drown.org/stm32duino/STM32F1-2020.2.24.zip",
+               "url" : "https://github.com/sirmphanyasiri/PT-BOT/blob/master/PTBOT-2020.5.13.zip?raw=true",
                "category" : "STM32",
                "archiveFileName" : "STM32F1-2020.2.24.zip"
             }
