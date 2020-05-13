@@ -12,7 +12,7 @@
                      "name" : "Generic STM32F103C series"
                   }
                ],
-               "size" : 8953310,
+               "size" : 8953294,
                "architecture" : "PTBOT",
                "checksum" : "SHA-256:42fcaf25026245b3e36f3dfa8bc9000919c8c04af5b39af89c95d7982c350f8d",
                "toolsDependencies" : [
@@ -27,9 +27,9 @@
                      "packager" : "arduino"
                   }
                ],
-               "url" : "http://dan.drown.org/stm32duino/STM32F1-2020.4.23.zip",
+               "url" : "https://github.com/sirmphanyasiri/PT-BOT/blob/master/PTBOT-2020.5.13.zip?raw=true",
                "category" : "STM32",
-               "archiveFileName" : "STM32F1-2020.4.23.zip"
+               "archiveFileName" : "PTBOT-2020.5.13.zip"
             }
          ],
          "tools" : [
