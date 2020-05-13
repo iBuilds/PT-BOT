@@ -6,10 +6,40 @@
          "platforms" : [
             {
                "version" : "2020.2.24",
-               "name" : "PT-BOT Board",
+               "name" : "STM32F1xx/GD32F1xx boards",
                "boards" : [
                   {
-                     "name" : "PT-BOT Atom1"
+                     "name" : "Maple Mini"
+                  },
+                  {
+                     "name" : "Maple (Rev 3)"
+                  },
+                  {
+                     "name" : "Maple (RET6)"
+                  },
+                  {
+                     "name" : "Microduino Core STM32 to Flash"
+                  },
+                  {
+                     "name" : "STM Nucleo F103RB (STLink)"
+                  },
+                  {
+                     "name" : "Generic STM32F103C series"
+                  },
+                  {
+                     "name" : "Generic STM32F103R series"
+                  },
+                  {
+                     "name" : "Generic STM32F103T series"
+                  },
+                  {
+                     "name" : "Generic STM32F103V series"
+                  },
+                  {
+                     "name" : "Generic STM32F103Z series"
+                  },
+                  {
+                     "name" : "Generic GD32F103C series"
                   }
                ],
                "size" : 8953294,
@@ -75,7 +105,7 @@
                "name" : "stm32tools"
             }
          ],
-         "name" : "PT-BOT",
+         "name" : "stm32duino",
          "websiteURL" : "http://www.stm32duino.com/",
          "help" : {
             "online" : "http://www.stm32duino.com/"
