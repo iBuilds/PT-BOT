@@ -9,11 +9,11 @@
                "name" : "PT-BOT Board",
                "boards" : [
                   {
-                     "name" : "PT-BOT Atom1"
+                     "name" : "Generic STM32F103C series"
                   }
                ],
-               "size" : 3530890,
-               "architecture" : "PTBOT",
+               "size" : 8953294,
+               "architecture" : "STM32F1",
                "checksum" : "SHA-256:42fcaf25026245b3e36f3dfa8bc9000919c8c04af5b39af89c95d7982c350f8d",
                "toolsDependencies" : [
                   {
