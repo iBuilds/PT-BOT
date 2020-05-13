@@ -9,45 +9,30 @@
         "platforms":
         [
           {
-            "name": "PT-BOT Atom1",
+            "name": "PT-BOT Boards",
             "architecture": "STM32F1",
             "version": "0.1",
             "category": "STM32",
-            "url": "https://github.com/robotics-masters/mm1-hat-arduino/blob/master/custom_board/RoboHat-0.0.24.zip?raw=true",
-            "archiveFileName": "RoboHat-0.0.24.zip",
+            "url": "https://github.com/sirmphanyasiri/PT-BOT/blob/master/PTBOT-2020.5.13.zip",
+            "archiveFileName": "PTBOT-2020.5.13",
             "checksum": "SHA-256:42fcaf25026245b3e36f3dfa8bc9000919c8c04af5b39af89c95d7982c350f8d",
             "size": "8953294",
             "boards": [
               {
-                "name": "Robo HAT MM1"
+                "name": "PT-BOT Atom1"
               }
             ],
             "toolsDependencies":
             [
               {
+                "packager": "stm32duino",
+                "name": "stm32tools",
+                "version": "2020.5.13"
+              },
+              {
                 "packager": "arduino",
                 "name": "arm-none-eabi-gcc",
-                "version": "7-2017q4"
-              },
-              {
-                "packager": "arduino",
-                "name": "bossac",
-                "version": "1.8.0-48-gb176eee"
-              },
-              {
-                "packager": "arduino",
-                "name": "openocd",
-                "version": "0.10.0-arduino9"
-              },
-              {
-                "packager": "arduino",
-                "name": "CMSIS",
-                "version": "4.5.0"
-              },
-              {
-                "packager": "arduino",
-                "name": "CMSIS-Atmel",
-                "version": "1.2.0"
+                "version": "4.8.3-2014q1"
               }
             ]
           }
