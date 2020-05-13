@@ -5,11 +5,11 @@
          "maintainer" : "PT-BOT",
          "platforms" : [
             {
-               "version" : "2020.5.13",
+               "version" : "0.0.1",
                "name" : "PT-BOT Board",
                "boards" : [
                   {
-                     "name" : "Generic STM32F103C series"
+                     "name" : "PT-BOT Atom1"
                   }
                ],
                "size" : 8953294,
