@@ -5,7 +5,7 @@
          "maintainer" : "PT-BOT",
          "platforms" : [
             {
-               "version" : "0.0.1",
+               "version" : "2020.5.13",
                "name" : "PT-BOT Board",
                "boards" : [
                   {
@@ -29,7 +29,7 @@
                ],
                "url" : "https://github.com/sirmphanyasiri/PT-BOT/blob/master/PTBOT-2020.5.13.zip?raw=true",
                "category" : "STM32",
-               "archiveFileName" : "STM32F1-2020.2.24.zip"
+               "archiveFileName" : "PTBOT-2020.5.13.zip"
             }
          ],
          "tools" : [
@@ -75,7 +75,7 @@
                "name" : "stm32tools"
             }
          ],
-         "name" : "stm32duino",
+         "name" : "PT-BOT",
          "websiteURL" : "http://www.stm32duino.com/",
          "help" : {
             "online" : "http://www.stm32duino.com/"
