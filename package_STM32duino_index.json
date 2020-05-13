@@ -6,7 +6,7 @@
          "platforms" : [
             {
                "version" : "2020.2.24",
-               "name" : "STM32F1xx/GD32F1xx boards",
+               "name" : "PT-BOT Board",
                "boards" : [
                   {
                      "name" : "Maple Mini"
