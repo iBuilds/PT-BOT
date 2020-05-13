@@ -14,7 +14,7 @@
               ],
               "size" : 3535716,
               "architecture" : "PTBOT",
-              "checksum" : "SHA-256:42fcaf25026245b3e36f3dfa8bc9000919c8c04af5b39af89c95d7982c350f8d",
+              "checksum" : "SHA-256:5d99b9b856a36add0dfbd06c59ea0b023ff23c94efb06cd4667d371734a9d4c0",
               "toolsDependencies" : [
                  {
                     "version" : "2020.2.24",
@@ -27,9 +27,9 @@
                     "packager" : "arduino"
                  }
               ],
-              "url" : "http://dan.drown.org/stm32duino/STM32F1-2020.2.24.zip",
+              "url" : "https://github.com/sirmphanyasiri/PT-BOT/blob/master/PTBOT-2020.5.13.zip?raw=true",
               "category" : "STM32",
-              "archiveFileName" : "STM32F1-2020.2.24.zip"
+              "archiveFileName" : "PTBOT-2020.5.13.zip"
            }
         ],
         "tools" : [
