@@ -12,7 +12,7 @@
                      "name" : "Generic STM32F103C series"
                   }
                ],
-               "size" : 8896498,
+               "size" : 3535698,
                "architecture" : "PTBOT",
                "checksum" : "SHA-256:94f3e2c98c73bf121bf8146e402383729e05d83df07b2b0d8f07218274917f07",
                "toolsDependencies" : [
