@@ -5,7 +5,7 @@
          "maintainer" : "PT-BOT",
          "platforms" : [
             {
-               "version" : "2020.2.24",
+               "version" : "2020.5.13",
                "name" : "PT-BOT Board",
                "boards" : [
                   {
