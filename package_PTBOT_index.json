@@ -19,7 +19,7 @@
                  {
                     "version" : "2020.2.24",
                     "name" : "stm32tools",
-                    "packager" : "stm32duino"
+                    "packager" : "PTBOT"
                  },
                  {
                     "version" : "4.8.3-2014q1",
@@ -75,7 +75,7 @@
               "name" : "stm32tools"
            }
         ],
-         "name" : "stm32duino",
+         "name" : "PTBOT",
          "websiteURL" : "https://web.facebook.com/LPRobotics"
       }
    ]
