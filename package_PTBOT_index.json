@@ -12,7 +12,7 @@
                     "name" : "PT-BOT Atom"
                  }
               ],
-              "size" : 862773,
+              "size" : 862606,
               "architecture" : "PTBOT",
               "checksum" : "SHA-256:f7ceba7911720136ff6d73d9b60cb7040d2dba1d056302224b7fc060c8a27cc1",
               "toolsDependencies" : [
