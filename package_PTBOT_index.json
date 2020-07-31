@@ -5,16 +5,16 @@
         "maintainer" : "PT-BOT",
         "platforms" : [
            {
-              "version" : "2020.5.13",
+              "version" : "2020.7.31",
               "name" : "PT-BOT Board",
               "boards" : [
                  {
                     "name" : "PT-BOT Atom"
                  }
               ],
-              "size" : 875528,
+              "size" : 875705,
               "architecture" : "PTBOT",
-              "checksum" : "SHA-256:b15cb1110ef1908a0bc861ad800a152fc1ee948673be858c6e92de13632a033f",
+              "checksum" : "SHA-256:c9123bb6427dd513aa16acaa73cdd7b8d5650f5136d2681ef3181da2534a664a",
               "toolsDependencies" : [
                  {
                     "version" : "2020.2.24",
@@ -27,9 +27,9 @@
                     "packager" : "arduino"
                  }
               ],
-              "url" : "https://github.com/iBuilds/PT-BOT/blob/master/PTBOT-2020.6.1.zip?raw=true",
+              "url" : "https://github.com/iBuilds/PT-BOT/blob/master/PTBOT-2020.7.31.zip?raw=true",
               "category" : "STM32",
-              "archiveFileName" : "PTBOT-2020.6.1.zip"
+              "archiveFileName" : "PTBOT-2020.7.31.zip"
            }
         ],
         "tools" : [
