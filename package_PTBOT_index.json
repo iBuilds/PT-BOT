@@ -12,9 +12,9 @@
                     "name" : "PT-BOT Atom"
                  }
               ],
-              "size" : 875705,
+              "size" : 874423,
               "architecture" : "PTBOT",
-              "checksum" : "SHA-256:c9123bb6427dd513aa16acaa73cdd7b8d5650f5136d2681ef3181da2534a664a",
+              "checksum" : "SHA-256:60be13c97e013b697bd68e6ce6d0d9e0a15e3f87fe08d8be1c907da23dcf8fd3",
               "toolsDependencies" : [
                  {
                     "version" : "2020.2.24",
