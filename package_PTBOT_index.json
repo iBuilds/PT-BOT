@@ -100,6 +100,41 @@
             "url" : "https://github.com/iBuilds/PT-BOT/blob/master/PTBOT-2020.9.21.zip?raw=true",
             "category" : "STM32",
             "archiveFileName" : "PTBOT-2020.9.21.zip"
+         },
+
+
+         {
+            "version" : "2020.9.21.2",
+            "name" : "PT-BOT Board",
+            "boards" : [
+               {
+                  "name" : "PT-BOT Atom X2"
+               },
+               {
+                  "name" : "PT-BOT Atom X4"
+               },
+               {
+                  "name" : "PT-BOT Atom mini"
+               }
+            ],
+            "size" : 886366,
+            "architecture" : "PTBOT",
+            "checksum" : "SHA-256:5f077655bb9b0b30144416ad79def1a80a90c1f761e349c7faff37436e0467f4",
+            "toolsDependencies" : [
+               {
+                  "version" : "2020.2.24",
+                  "name" : "stm32tools",
+                  "packager" : "PTBOT"
+               },
+               {
+                  "version" : "4.8.3-2014q1",
+                  "name" : "arm-none-eabi-gcc",
+                  "packager" : "arduino"
+               }
+            ],
+            "url" : "https://github.com/iBuilds/PT-BOT/blob/master/PTBOT-2020.9.21.2.zip?raw=true",
+            "category" : "STM32",
+            "archiveFileName" : "PTBOT-2020.9.21.2.zip"
          }
 
 
