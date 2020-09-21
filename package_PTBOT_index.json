@@ -13,7 +13,7 @@
                  }
               ],
               "size" : 874384,
-              "architecture" : "STM32",
+              "architecture" : "PTBOT",
               "checksum" : "SHA-256:7cf83cc3e089ec48d23933c7ffe18597481bd0719c7b931665bbd52e543e4a6a",
               "toolsDependencies" : [
                  {
@@ -48,7 +48,7 @@
                }
             ],
             "size" : 886265,
-            "architecture" : "STM32",
+            "architecture" : "PTBOT",
             "checksum" : "SHA-256:9105736486bb4c803deb9d27bc5b7fa341f17cec06a979152bf3aa416c599e2f",
             "toolsDependencies" : [
                {
@@ -83,7 +83,7 @@
                }
             ],
             "size" : 886374,
-            "architecture" : "STM32",
+            "architecture" : "PTBOT",
             "checksum" : "SHA-256:17dc95008bf0c02b3bcc210471de6af3bc1136b69393158e420ab562ef872c77",
             "toolsDependencies" : [
                {
@@ -118,7 +118,7 @@
                }
             ],
             "size" : 886434,
-            "architecture" : "STM32",
+            "architecture" : "PTBOT",
             "checksum" : "SHA-256:dbab93e13f396463a133f02c1d521a23af8b4b5d19820b7d2a25df59626ca99f",
             "toolsDependencies" : [
                {
