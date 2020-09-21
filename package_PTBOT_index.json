@@ -139,7 +139,7 @@
 
 
          {
-            "version" : "2020.9.22",
+            "version" : "2020.9.23",
             "name" : "PT-BOT ATMEGA328",
             "boards" : [
                {
@@ -161,9 +161,9 @@
                   "packager" : "arduino"
                }
             ],
-            "url" : "https://github.com/iBuilds/PT-BOT/blob/master/PTBOT-2020.9.22.zip?raw=true",
+            "url" : "https://github.com/iBuilds/PT-BOT/blob/master/PTBOT-2020.9.23.zip?raw=true",
             "category" : "STM32",
-            "archiveFileName" : "PTBOT-2020.9.22.zip"
+            "archiveFileName" : "PTBOT-2020.9.23.zip"
          }
 
 
