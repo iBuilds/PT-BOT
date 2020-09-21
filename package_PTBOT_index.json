@@ -6,7 +6,7 @@
         "platforms" : [
            {
               "version" : "2020.7.31",
-              "name" : "PT-BOT Board",
+              "name" : "PT-BOT STM32F1",
               "boards" : [
                  {
                     "name" : "PT-BOT Atom"
@@ -35,7 +35,7 @@
 
            {
             "version" : "2020.9.15",
-            "name" : "PT-BOT Board",
+            "name" : "PT-BOT STM32F1",
             "boards" : [
                {
                   "name" : "PT-BOT Atom X2"
@@ -70,7 +70,7 @@
 
          {
             "version" : "2020.9.21",
-            "name" : "PT-BOT Board",
+            "name" : "PT-BOT STM32F1",
             "boards" : [
                {
                   "name" : "PT-BOT Atom X2"
@@ -105,7 +105,7 @@
 
          {
             "version" : "2020.9.22",
-            "name" : "PT-BOT Board",
+            "name" : "PT-BOT STM32F1",
             "boards" : [
                {
                   "name" : "PT-BOT Atom X2"
@@ -162,7 +162,7 @@
                }
             ],
             "url" : "https://github.com/iBuilds/PT-BOT/blob/master/PTBOT-2020.9.23.zip?raw=true",
-            "category" : "STM32",
+            "category" : "ATMEGA",
             "archiveFileName" : "PTBOT-2020.9.23.zip"
          }
 
