@@ -117,9 +117,9 @@
                   "name" : "PT-BOT Atom mini"
                }
             ],
-            "size" : 886366,
+            "size" : 886434,
             "architecture" : "PTBOT",
-            "checksum" : "SHA-256:5f077655bb9b0b30144416ad79def1a80a90c1f761e349c7faff37436e0467f4",
+            "checksum" : "SHA-256:dbab93e13f396463a133f02c1d521a23af8b4b5d19820b7d2a25df59626ca99f",
             "toolsDependencies" : [
                {
                   "version" : "2020.2.24",
