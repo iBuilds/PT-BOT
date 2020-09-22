@@ -146,9 +146,9 @@
                   "name" : "PT-BOT Micro KIDS"
                }
             ],
-            "size" : 4876916,
-            "architecture" : "ATMEGA328",
-            "checksum" : "SHA-256:08ad5db4978ebea22344edc5d77dce0923d8a644da7a14dc8072e883c76058d8",
+            "size" : 5889117,
+            "architecture" : "avr",
+            "checksum" : "SHA-256:97ae639fb780819f781866dd205ab877ae8b8e910f37967c5274f4153dcf0806",
             "toolsDependencies" : [
                {
                   "version" : "4.8.1-arduino5",
@@ -161,9 +161,9 @@
                   "packager" : "arduino"
                }
             ],
-            "url" : "http://downloads.arduino.cc/cores/avr-1.6.6.tar.bz2",
+            "url" : "https://github.com/iBuilds/PT-BOT/blob/master/PTBOT-AVR-2020.9.22.zip?raw=true",
             "category" : "Arduino",
-            "archiveFileName" : "avr-1.6.6.tar.bz2"
+            "archiveFileName" : "PTBOT-AVR-2020.9.22.zip"
          }
 
 
