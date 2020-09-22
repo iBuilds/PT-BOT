@@ -153,12 +153,12 @@
                {
                   "version" : "4.8.1-arduino5",
                   "name" : "avr-gcc",
-                  "packager" : "PTBOT"
+                  "packager" : "arduino"
                },
                {
                   "version" : "6.0.1-arduino5",
                   "name" : "avrdude",
-                  "packager" : "PTBOT"
+                  "packager" : "arduino"
                }
             ],
             "url" : "https://github.com/iBuilds/PT-BOT/blob/master/PTBOT-AVR-2020.9.22.zip?raw=true",
