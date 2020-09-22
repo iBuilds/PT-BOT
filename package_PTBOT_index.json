@@ -146,24 +146,24 @@
                   "name" : "PT-BOT Micro KIDS"
                }
             ],
-            "size" : 886443,
+            "size" : 4876916,
             "architecture" : "ATMEGA328",
-            "checksum" : "SHA-256:63ca7112af6ff2ee85638c0f8e44d88344287928e9b68e06459c236422b4717b",
+            "checksum" : "SHA-256:08ad5db4978ebea22344edc5d77dce0923d8a644da7a14dc8072e883c76058d8",
             "toolsDependencies" : [
                {
-                  "version" : "2020.2.24",
-                  "name" : "stm32tools",
-                  "packager" : "PTBOT"
+                  "version" : "4.8.1-arduino5",
+                  "name" : "avr-gcc",
+                  "packager" : "arduino"
                },
                {
-                  "version" : "4.8.3-2014q1",
-                  "name" : "arm-none-eabi-gcc",
+                  "version" : "6.0.1-arduino5",
+                  "name" : "avrdude",
                   "packager" : "arduino"
                }
             ],
-            "url" : "https://github.com/iBuilds/PT-BOT/blob/master/PTBOT-2020.9.23.zip?raw=true",
-            "category" : "ATMEGA",
-            "archiveFileName" : "PTBOT-2020.9.23.zip"
+            "url" : "http://downloads.arduino.cc/cores/avr-1.6.6.tar.bz2",
+            "category" : "Arduino",
+            "archiveFileName" : "avr-1.6.6.tar.bz2"
          }
 
 
@@ -209,7 +209,41 @@
               ],
               "version" : "2020.2.24",
               "name" : "stm32tools"
-           }
+           },
+           {
+            "systems": [
+              {
+                "host": "i386-apple-darwin11",
+                "url": "http://downloads.arduino.cc/tools/avr-gcc-4.8.1-arduino5-i386-apple-darwin11.tar.bz2",
+                "archiveFileName": "avr-gcc-4.8.1-arduino5-i386-apple-darwin11.tar.bz2",
+                "size": "24437400",
+                "checksum": "SHA-256:111b3ef00d737d069eb237a8933406cbb928e4698689e24663cffef07688a901"
+              },
+              {
+                "host": "x86_64-linux-gnu",
+                "url": "http://downloads.arduino.cc/tools/avr-gcc-4.8.1-arduino5-x86_64-pc-linux-gnu.tar.bz2",
+                "archiveFileName": "avr-gcc-4.8.1-arduino5-x86_64-pc-linux-gnu.tar.bz2",
+                "size": "27093036",
+                "checksum": "SHA-256:9054fcc174397a419ba56c4ce1bfcbcad275a6a080cc144905acc9b0351ee9cc"
+              },
+              {
+                "host": "i686-linux-gnu",
+                "url": "http://downloads.arduino.cc/tools/avr-gcc-4.8.1-arduino5-i686-pc-linux-gnu.tar.bz2",
+                "archiveFileName": "avr-gcc-4.8.1-arduino5-i686-pc-linux-gnu.tar.bz2",
+                "size": "25882375",
+                "checksum": "SHA-256:7648b7f549b37191da0b0be53bae791b652f82ac3cb4e7877f85075aaf32141f"
+              },
+              {
+                "host": "i686-mingw32",
+                "url": "http://downloads.arduino.cc/tools/avr-gcc-4.8.1-arduino5-i686-mingw32.zip",
+                "archiveFileName": "avr-gcc-4.8.1-arduino5-i686-mingw32.zip",
+                "size": "46044779",
+                "checksum": "SHA-256:d4303226a7b41d3c445d901b5aa5903458def3fc7b7ff4ffef37cabeb37d424d"
+              }
+            ],
+            "version": "4.8.1-arduino5",
+            "name": "avr-gcc"
+          }
         ],
          "name" : "PTBOT",
          "websiteURL" : "https://github.com/iBuilds/PT-BOT/tree/master/Manual"
