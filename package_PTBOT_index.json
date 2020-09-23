@@ -38,10 +38,10 @@
             "name" : "PT-BOT STM32F1",
             "boards" : [
                {
-                  "name" : "PT-BOT Atom X2"
+                  "name" : "PT-BOT Atom X4"
                },
                {
-                  "name" : "PT-BOT Atom X4"
+                  "name" : "PT-BOT Atom X2"
                },
                {
                   "name" : "PT-BOT Atom mini"
@@ -73,10 +73,10 @@
             "name" : "PT-BOT STM32F1",
             "boards" : [
                {
-                  "name" : "PT-BOT Atom X2"
+                  "name" : "PT-BOT Atom X4"
                },
                {
-                  "name" : "PT-BOT Atom X4"
+                  "name" : "PT-BOT Atom X2"
                },
                {
                   "name" : "PT-BOT Atom mini"
@@ -108,10 +108,10 @@
             "name" : "PT-BOT STM32F1",
             "boards" : [
                {
-                  "name" : "PT-BOT Atom X2"
+                  "name" : "PT-BOT Atom X4"
                },
                {
-                  "name" : "PT-BOT Atom X4"
+                  "name" : "PT-BOT Atom X2"
                },
                {
                   "name" : "PT-BOT Atom mini"
