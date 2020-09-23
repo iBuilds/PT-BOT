@@ -146,9 +146,9 @@
                   "name" : "PT-BOT Micro KIDS"
                }
             ],
-            "size" : 5878049,
+            "size" : 5878060,
             "architecture" : "avr",
-            "checksum" : "SHA-256:450ec311b9bffacb9e6153e20ceb450b97d42902c6bbed2f1e217ee56d36d72f",
+            "checksum" : "SHA-256:8ba11b5b92d32dbbef63e83c0249422b5456c1bd2993fc9d3babaefd636b79fb",
             "toolsDependencies" : [
                {
                   "version" : "4.8.1-arduino5",
