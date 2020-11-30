@@ -1,0 +1,15 @@
+{
+    "name": "PTKidsBIT",
+    "version": "0.0.1",
+    "description": "PTKidsBIT :microbit",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "ptkidsbit.ts"
+    ],
+    "testFiles": [],
+    "public": true
+}
