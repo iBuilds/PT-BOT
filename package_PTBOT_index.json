@@ -157,9 +157,9 @@
                   "name" : "PT-BOT Storm mini"
                }
             ],
-            "size" : 924370,
+            "size" : 924353,
             "architecture" : "STM32F1",
-            "checksum" : "SHA-256:813c75742b5e3202f824e6ebb730a3dd884da47f75c5867ada3052c7facb3d4e",
+            "checksum" : "SHA-256:aee6a198ac3c32577f76d365df9e85df8dce2a297c319280d8352641019d460b",
             "toolsDependencies" : [
                {
                   "version" : "2020.2.24",
